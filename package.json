@@ -1,0 +1,26 @@
+{
+  "name": "splitwise",
+  "version": "0.0.0",
+  "description": "Splitwise API wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/elvinyung/splitwise.git"
+  },
+  "keywords": [
+    "splitwise",
+    "api"
+  ],
+  "author": "Elvin Yung <elvin@elvinyung.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elvinyung/splitwise/issues"
+  },
+  "homepage": "https://github.com/elvinyung/splitwise#readme",
+  "dependencies": {
+    "oauth": "^0.9.14"
+  }
+}
