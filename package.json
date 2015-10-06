@@ -22,5 +22,11 @@
   "homepage": "https://github.com/elvinyung/splitwise#readme",
   "dependencies": {
     "oauth": "^0.9.14"
+  },
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3",
+    "sinon": "^1.17.1",
+    "sinon-chai": "^2.8.0"
   }
 }
